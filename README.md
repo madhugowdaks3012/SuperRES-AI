@@ -1,4 +1,4 @@
-# VisionAI-SuperResolution 🚀
+#SuperRES-AI 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-red)
@@ -7,7 +7,7 @@
 
 ## 🔬 Advanced AI Image Super Resolution using Real-ESRGAN
 
-VisionAI-SuperResolution is a deep learning-powered image enhancement tool that improves low-resolution images using the Real-ESRGAN neural network model.
+SuperRES-AI is a deep learning-powered image enhancement tool that improves low-resolution images using the Real-ESRGAN neural network model.
 
 Built with:
 
@@ -82,7 +82,7 @@ VisionAI-SuperResolution/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VisionAI-SuperResolution.git
+git clone https://github.com/madhugowdaks3012/SuperRES-AI.git
 cd VisionAI-SuperResolution
 ```
 
@@ -172,8 +172,9 @@ Refer to the official Real-ESRGAN repository for licensing details.
 
 # 👨‍💻 Author
 
-Developed by: **Your Name**  
-Project: VisionAI-SuperResolution  
+Developed by: **Madhu Gowda K S**
+Mail:madhugowdaks3012@gmail.com
+Project: SuperRES-AI 
 Year: 2026  
 
 ---
